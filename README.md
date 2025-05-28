@@ -1,6 +1,4 @@
-
-https://github.com/user-attachments/assets/7c813aab-81a5-4512-b332-50522906ba01
-![image](https://github.com/user-attachments/assets/46275a82-07c9-4df3-a09c-4e67d52d24ab)# PubMed AI
+#PubMed AI
 
 > Your AI-powered co-pilot for finding and understanding biomedical literature
 
