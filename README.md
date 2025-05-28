@@ -1,4 +1,4 @@
-#PubMed AI
+# PubMed AI
 
 > Your AI-powered co-pilot for finding and understanding biomedical literature
 
