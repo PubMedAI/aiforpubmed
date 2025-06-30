@@ -24,7 +24,7 @@ How to use PubMed AI: https://github.com/PubMedAI/aiforpubmed/wiki/How-to-Use-Pu
 
     Chat with the system to explore methods, results, limitations, and more.
 
-- **Social Media Sharing** (since **v0.3.5**)  
+- **Social Media Sharing** (since **v0.3.4**)  
   • Share your search results or summaries to X, Facebook, LinkedIn, and Reddit.  
   • One-click copy of shareable links supported.  
 
