@@ -24,13 +24,18 @@ How to use PubMed AI: https://github.com/PubMedAI/aiforpubmed/wiki/How-to-Use-Pu
 
     Chat with the system to explore methods, results, limitations, and more.
 
+- **Social Media Sharing** (since **v0.3.5**)  
+  • Share your search results or summaries to X, Facebook, LinkedIn, and Reddit.  
+  • One-click copy of shareable links supported.  
+
 Learn more:https://github.com/PubMedAI/aiforpubmed/wiki/Deep-Chat-fuction
 
 ---
-## 🔖 Version 0.3.0 Highlights
+## 🔖 Recent Version Highlights
 
-- DeepChat Integration:  Engage in a conversational interface with your most recent search results. Ask follow-up questions about study design, key findings, or critique points in natural language.
-- Able to generate a full Research Report to summarise the newest 20 research papers, and able to conclude all results and methodology
+### v0.3.5
+- Social media share function is now online  
+  Share to **X**, **Facebook**, **LinkedIn**, **Reddit**, or directly copy the link to share anywhere you like.
 
 ---
 
