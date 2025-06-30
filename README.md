@@ -33,7 +33,7 @@ Learn more:https://github.com/PubMedAI/aiforpubmed/wiki/Deep-Chat-fuction
 ---
 ## 🔖 Recent Version Highlights
 
-### v0.3.5
+### v0.3.4
 - Social media share function is now online  
   Share to **X**, **Facebook**, **LinkedIn**, **Reddit**, or directly copy the link to share anywhere you like.
 
