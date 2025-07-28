@@ -9,51 +9,56 @@ Discover How it Works: https://github.com/PubMedAI/aiforpubmed/wiki/How-PubMed-A
 How to use PubMed AI: https://github.com/PubMedAI/aiforpubmed/wiki/How-to-Use-PubMed-AI
 
 
----
 
 ## 🚀 Key Features
 
-- Intelligent Keyword Expansion & Accurate Search  Automatically broaden and refine your search terms to retrieve the most relevant papers.
+- **Intelligent Keyword Expansion & Accurate Search**  
+  Automatically broaden and refine your search terms to retrieve the most relevant papers.
 
-- AI-Generated Summaries & Key-Point Extraction  Instantly see concise overviews and highlight lists for each result—no need to read every abstract in full.
+- **AI-Generated Summaries & Key-Point Extraction**  
+  Instantly see concise overviews and highlight lists for each result—no need to read every abstract in full.
 
-- DeepChat Research Co-Pilot (since **v0.3.0**)  
-    After each query, the latest 20 papers are ingested into the DeepChat engine.
+- **DeepChat Research Co-Pilot**  
+  • Engage in conversational Q&A about your latest search results.  
+  • Ask follow-up questions about study design, key findings, or critique points.
 
-    Sample questions are generated automatically.  
-
-    Chat with the system to explore methods, results, limitations, and more.
-
-- **Social Media Sharing** (since **v0.3.4**)  
-  • Share your search results or summaries to X, Facebook, LinkedIn, and Reddit.  
-  • One-click copy of shareable links supported.  
-
-Learn more:https://github.com/PubMedAI/aiforpubmed/wiki/Deep-Chat-fuction
+- **Social Media Sharing**  
+  • Share your search results or summaries to **X**, **Facebook**, **LinkedIn**, and **Reddit**.  
+  • One-click copy of shareable links supported.
 
 ---
+
 ## 🔖 Recent Version Highlights
 
-### v0.3.4
-- Social media share function is now online  
-  Share to **X**, **Facebook**, **LinkedIn**, **Reddit**, or directly copy the link to share anywhere you like.
+### **v0.3.7**
+- **Optimized Query Analysis and API Interface**  
+  Improved input analysis and query handling for better efficiency and broader search coverage.
+- **Image Display in Frontend Chat**  
+  The conversational interface now supports **image generation display** for richer research interaction.
+
+### **v0.3.5**
+- Added **social media sharing function**  
+  Share to **X**, **Facebook**, **LinkedIn**, **Reddit**, or copy the link.
+
+### **v0.3.0**
+- Introduced **DeepChat integration**  
+  Conversational exploration of the latest 20 search results.
 
 ---
-
 
 ## 📋 TODO / Roadmap
 
-1. Full Literature Review Article  
-2. Project & Experimental Design Module  
-3. Journal Recommendation Engine  
-4. Chat-Based Summary Generation  
-5. Automated Methodology Analysis  
-6. Strengths & Limitations Discussion  
-7. Research Abstract / Executive Summary  
-8. Cover Letter Drafting for Journal Submission  
-9. Peer-Review Comments & Referee Report Assistant
+1. **Full Literature Review Article**  
+2. **Project & Experimental Design Module**  
+3. **Journal Recommendation Engine**  
+4. **Chat-Based Summary Generation**  
+5. **Automated Methodology Analysis**  
+6. **Strengths & Limitations Discussion**  
+7. **Research Abstract / Executive Summary**  
+8. **Cover Letter Drafting for Journal Submission**  
+9. **Peer-Review Comments & Referee Report Assistant**
 
 ---
-
 
 ## 📚 Learn More
 
@@ -64,9 +69,12 @@ https://github.com/PubMedAI/aiforpubmed/wiki
 
 ## 💬 Contact & Community
 
-- Support Email: support@pubmed.ai  
-- Website: https://www.pubmed.ai  
-- Facebook Group: https://www.facebook.com/groups/pubmedai 
-- Discord: https://discord.gg/mqrEqKpWb5  
+- **Support Email:** support@pubmed.ai  
+- **Website:** https://www.pubmed.ai  
+- **Facebook Group:** https://www.facebook.com/share/g/15aHuG2GUM/  
+- **Discord:** https://discord.gg/mqrEqKpWb5  
 
 Join our community to discuss features, share feedback, and connect with researchers worldwide!
+
+---
+
